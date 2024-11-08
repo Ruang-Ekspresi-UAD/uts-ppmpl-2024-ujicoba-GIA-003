@@ -1,0 +1,4 @@
+mkdir test
+npm init -y
+npm install mocha chai --sev-dev
+npm test
